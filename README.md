@@ -1,1 +1,1 @@
-# pcb-mcp73831-breakout-board
+# MCP73831 Breakout Board
